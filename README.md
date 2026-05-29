@@ -140,5 +140,3 @@ E-Commerce-Sales-Analytics/
 
 **Anushree Lal**
 
-through all 15, but they do notice a few well-chosen visualizations.
-
